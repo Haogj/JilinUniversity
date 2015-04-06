@@ -5,6 +5,13 @@
 ##### 五级标题
 ###### 六级标题
 the test project  
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 一段代码, 行内代码 `Console.WriteLine("Hell");` 
 
      Console.WriteLine("Hello, world");
