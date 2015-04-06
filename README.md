@@ -11,4 +11,8 @@ the test project
        <td>列名</td>
        <td>第三列</td>
     </tr>
+    <tr>
+        <td>特殊字符 & </td>
+        <td> &copy; </td>
+        <td> AT&T </td>
 </table>
