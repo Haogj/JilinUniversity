@@ -8,5 +8,7 @@ the test project
 <table>
     <tr>
        <td>表格内容</td>
+       <td>列名</td>
+       <td>第三列</td>
     </tr>
 </table>
